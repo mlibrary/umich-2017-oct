@@ -1,3 +1,6 @@
+# Copied from https://github.com/sandimetz/99bottles_ruby/releases/tag/2.0-initial-variations-10
+# Copyright Sandi Metz, Katrina Owen, TJ Stankus
+
 class Bottles
   def song
     verses(99, 0)
